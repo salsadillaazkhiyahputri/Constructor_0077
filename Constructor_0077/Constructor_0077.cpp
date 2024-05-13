@@ -5,3 +5,4 @@ class mahasiswa
 	public:
 		static int main;
 		int id;
+		string nama;
