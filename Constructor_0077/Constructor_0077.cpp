@@ -6,3 +6,6 @@ class mahasiswa
 		static int main;
 		int id;
 		string nama;
+
+		void setID();
+		
